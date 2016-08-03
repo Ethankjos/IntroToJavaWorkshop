@@ -22,3 +22,5 @@ public class MyFirstJavaProgram {
 			jefferey.move(-200);
 			jefferey.turn(-90);
 		}
+	}
+}
