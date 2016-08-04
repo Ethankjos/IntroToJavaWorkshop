@@ -22,7 +22,7 @@ public class PentagonCrazy {
 		// test until step 6.
 		int ang = 360 / 5;
 		// 7. Do steps #2 to #11, 200 times. When this is done you should see a pentagon.
-		for (int i = 0; i < 999999; i++) {
+		for (int i = 0; i < 999999999; i++) {
 			fat.setRandomPenColor();
 			fat.setPenWidth(5);
 			// 2. Move the robot 200 pixels
